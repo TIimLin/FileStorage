@@ -1,0 +1,182 @@
+{
+    "mac": {
+        "macbookpro": [],
+        "macbookair": []
+    },
+    "iphone": {
+        "iphone": [],
+        "iphonese": [],
+        "ipgonepro": []
+    },
+    "ipad": {
+        "ipad": [],
+        "ipadmin": [],
+        "ipadir": [
+            [
+                {
+                    "color": "太空灰色",
+                    "id": "A001",
+                    "network": "Wi-Fi",
+                    "picture": "gray.png",
+                    "price": 18900,
+                    "storage": "64GB"
+                },
+                {
+                    "color": "銀色",
+                    "id": "A002",
+                    "network": "Wi-Fi",
+                    "picture": "silver.png",
+                    "price": 18900,
+                    "storage": "64GB"
+                },
+                {
+                    "color": "玫瑰金色",
+                    "id": "A003",
+                    "network": "Wi-Fi",
+                    "picture": "rose.png",
+                    "price": 18900,
+                    "storage": "64GB"
+                },
+                {
+                    "color": "綠色",
+                    "id": "A004",
+                    "network": "Wi-Fi",
+                    "picture": "green.png",
+                    "price": 18900,
+                    "storage": "64GB"
+                },
+                {
+                    "color": "天藍色",
+                    "id": "A005",
+                    "network": "Wi-Fi",
+                    "picture": "blue.png",
+                    "price": 18900,
+                    "storage": "64GB"
+                },
+                {
+                    "color": "太空灰色",
+                    "id": "B001",
+                    "network": "Wi-Fi",
+                    "picture": "gray.png",
+                    "price": 23900,
+                    "storage": "256GB"
+                },
+                {
+                    "color": "銀色",
+                    "id": "B002",
+                    "network": "Wi-Fi",
+                    "picture": "silver.png",
+                    "price": 23900,
+                    "storage": "256GB"
+                },
+                {
+                    "color": "玫瑰金色",
+                    "id": "B003",
+                    "network": "Wi-Fi",
+                    "picture": "rose.png",
+                    "price": 23900,
+                    "storage": "256GB"
+                },
+                {
+                    "color": "綠色",
+                    "id": "B004",
+                    "network": "Wi-Fi",
+                    "picture": "green.png",
+                    "price": 23900,
+                    "storage": "256GB"
+                },
+                {
+                    "color": "天藍色",
+                    "id": "B005",
+                    "network": "Wi-Fi",
+                    "picture": "blue.png",
+                    "price": 23900,
+                    "storage": "256GB"
+                },
+                {
+                    "color": "太空灰色",
+                    "id": "C001",
+                    "network": "Cellular",
+                    "picture": "gray.png",
+                    "price": 23200,
+                    "storage": "64GB"
+                },
+                {
+                    "color": "銀色",
+                    "id": "C002",
+                    "network": "Cellular",
+                    "picture": "silver.png",
+                    "price": 23200,
+                    "storage": "64GB"
+                },
+                {
+                    "color": "玫瑰金色",
+                    "id": "C003",
+                    "network": "Cellular",
+                    "picture": "rose.png",
+                    "price": 23200,
+                    "storage": "64GB"
+                },
+                {
+                    "color": "綠色",
+                    "id": "C004",
+                    "network": "Cellular",
+                    "picture": "green.png",
+                    "price": 23200,
+                    "storage": "64GB"
+                },
+                {
+                    "color": "天藍色",
+                    "id": "C005",
+                    "network": "Cellular",
+                    "picture": "blue.png",
+                    "price": 23200,
+                    "storage": "64GB"
+                },
+                {
+                    "color": "太空灰色",
+                    "id": "D001",
+                    "network": "Cellular",
+                    "picture": "gray.png",
+                    "price": 28200,
+                    "storage": "256GB"
+                },
+                {
+                    "color": "銀色",
+                    "id": "D002",
+                    "network": "Cellular",
+                    "picture": "silver.png",
+                    "price": 28200,
+                    "storage": "256GB"
+                },
+                {
+                    "color": "玫瑰金色",
+                    "id": "D003",
+                    "network": "Cellular",
+                    "picture": "rose.png",
+                    "price": 28200,
+                    "storage": "256GB"
+                },
+                {
+                    "color": "綠色",
+                    "id": "D004",
+                    "network": "Cellular",
+                    "picture": "green.png",
+                    "price": 28200,
+                    "storage": "256GB"
+                },
+                {
+                    "color": "天藍色",
+                    "id": "D005",
+                    "network": "Cellular",
+                    "picture": "blue.png",
+                    "price": 28200,
+                    "storage": "256GB"
+                }
+            ]
+        ],
+        "ipadpro": []
+    },
+    "watch": {},
+    "airpods": {}
+}
