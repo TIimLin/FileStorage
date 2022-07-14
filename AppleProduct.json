@@ -11,7 +11,7 @@
     "ipad": {
         "ipad": [],
         "ipadmin": [],
-        "ipadair": [
+        "ipadair": 
             [
                 {
                     "color": "太空灰色",
@@ -173,8 +173,8 @@
                     "price": 28200,
                     "storage": "256GB"
                 }
-            ]
-        ],
+            ],
+        
         "ipadpro": []
     },
     "watch": {},
